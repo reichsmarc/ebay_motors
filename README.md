@@ -35,7 +35,7 @@ The second problem, also related to the availability of data, is that model MSRP
 - Title Status (can be left blank)
 
 eBay also allows sellers to enter their own values for dropdown menus:
-**insert image here**
+![eBay Motors - Listing Options](https://github.com/reichsmarc/ebay_motors/blob/master/images/eBay_Motors_options_menu.png?raw=true)
 
 Because I could not implement a VIN lookup tool to fill in sparse or incorrect data given a large proportion of listings with faked numbers, I ran into further challenges both in cleaning the data and creating categorical variables.
 
