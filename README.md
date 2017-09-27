@@ -1,6 +1,6 @@
 # Project \#2 - eBay Motors Regression #
 ---
-For our second project at Metis, we were tasked with applying regression techniques to a data set of our choosing (to be acquired by webscraping). I have always loved cars, so I set out to build a generalized car pricing model using linear regression.
+For our second project at Metis, we were tasked with applying regression techniques to a data set of our choosing. I have always loved cars, so I set out to build a generalized car pricing model using linear regression.
 
 ### Code cleanup in progress. ###
 ***To Do:***
